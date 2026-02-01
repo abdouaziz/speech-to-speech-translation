@@ -56,7 +56,6 @@ These works focus on traditional pipelines, often enhanced with prosody transfer
   [https://arxiv.org/abs/2502.00377](https://arxiv.org/abs/2502.00377)
   *Argues for the continued relevance of cascaded systems using multi-candidate ASR and self-supervised features.*
 
-
 ## 3. Foundational & Pioneering Papers (Direct S2ST)
 
 * **[1904.06037] Direct Speech-to-Speech Translation with a Sequence-to-Sequence Model** (2019)
